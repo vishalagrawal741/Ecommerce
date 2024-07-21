@@ -21,37 +21,6 @@ This is a fully functional e-commerce application built using Django for the bac
   - Django
   - SQLite (as the database)
 
-## Project Structure
-
-ecommerce/
-├── catalog/
-│ ├── migrations/
-│ ├── templates/
-│ │ └── catalog/
-│ │ ├── index.html
-│ │ └── index2.html
-│ ├── init.py
-│ ├── admin.py
-│ ├── apps.py
-│ ├── models.py
-│ ├── tests.py
-│ ├── urls.py
-│ └── views.py
-├── ecommerce/
-│ ├── init.py
-│ ├── asgi.py
-│ ├── settings.py
-│ ├── urls.py
-│ └── wsgi.py
-├── media/
-│ └── products/
-│ ├── Iphone.jpg
-│ ├── OIP.jpeg
-│ ├── RR_car.jpg
-│ └── Screenshot_2024-07-19_155403.png
-├── db.sqlite3
-└── manage.py
-
 
 ## Setup Instructions
 
